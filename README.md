@@ -31,5 +31,4 @@ streamlit run app.py                # launches the full app locally
 
 ## Live demo
 
-Not deployed yet — see `DEPLOY.md`. Once live, put the URL here and in
-the bid message.
+https://lead-agent-mvp.streamlit.app
