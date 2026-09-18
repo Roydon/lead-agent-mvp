@@ -5,7 +5,7 @@ import os
 
 from groq import Groq
 
-MODEL = "llama-3.1-8b-instant"
+MODEL = "openai/gpt-oss-20b"
 
 DIVISIONS = ["metal_trading", "real_estate", "unknown"]
 CATEGORIES = ["quote_request", "general_inquiry", "urgent_complaint", "spam"]
